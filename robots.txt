@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://innnervision.github.io/sitemap.xml
